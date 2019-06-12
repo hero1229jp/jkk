@@ -13,12 +13,12 @@ import javax.mail.internet.MimeMessage;
 public class MailSender {
     // Replace sender@example.com with your "From" address.
     // This address must be verified.
-    static final String FROM = "hero1229@gmail.com";
-    static final String FROMNAME = "hero1229";
+    static final String FROM = "---------@--------------";
+    static final String FROMNAME = "---------";
 	
     // Replace recipient@example.com with a "To" address. If your account 
     // is still in the sandbox, this address must be verified.
-    static final String TO = "hero1229@ezweb.ne.jp";
+    static final String TO = "----------@------------";
     
     // Replace smtp_username with your Amazon SES SMTP user name.
     static final String SMTP_USERNAME = "AKIA6KNAHWT6MOPGVUMM";
